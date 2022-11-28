@@ -1,1 +1,1 @@
-# variables-in-js
+# variables declaration in js (let,var,const)
